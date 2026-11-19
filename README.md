@@ -11,7 +11,7 @@ Welcome to **Eratosthenes Lab**, my personal workspace dedicated to quantitative
 
 ### Where to Find My Work
 * **LinkedIn:** [Matteo Putzulu](https://www.linkedin.com/in/matteoputzulu/)
-* **ResearchGate:** [Matteo Putzulu](https://researchgate.net)
-* **Medium:** [@mp.engineering](https://medium.com)
-* **Substack:** [The Quantitative Epoch](https://substack.com)
-* **Academia.edu:** [Matteo Putzulu](https://academia.edu)
+* **ResearchGate:** [Matteo Putzulu](www.researchgate.net/profile/Matteo-Putzulu)
+* **Medium:** [@mp.engineering](https://medium.com/@mp.engineering)
+* **Substack:** [The Quantitative Epoch](https://substack.com/@thequantitativeepoch)
+* **Academia.edu:** [Matteo Putzulu](https://independent.academia.edu/MatteoPutzulu)
