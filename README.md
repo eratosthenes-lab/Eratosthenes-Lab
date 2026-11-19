@@ -2,7 +2,7 @@
 
 **Civil and Industrial Engineer (M.Eng.) | Professional Engineer | International Welding Engineer (IWE) | Data Scientist**
 
-Welcome to **Eratosthenes Lab**, my personal workspace dedicated to quantitative analysis, statistical modeling, engineering calculations, and data science.
+Welcome to **Eratosthenes-Lab**, my personal workspace dedicated to quantitative analysis, statistical modeling, engineering calculations, and data science.
 
 ### Focus Areas
 * **Statistical & Econometric Analysis:** Time series, regression diagnostics, and residual analysis.
