@@ -14,4 +14,4 @@ Welcome to **Eratosthenes Lab**, my personal workspace dedicated to quantitative
 * **Medium:** [@mp.engineering](https://medium.com)
 * **ResearchGate:** [Matteo Putzulu](https://researchgate.net)
 * **Academia.edu:** [Matteo Putzulu](https://academia.edu)
-* **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+* **LinkedIn:** [Matteo Putzulu](https://linkedin.com)
