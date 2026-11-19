@@ -10,7 +10,7 @@ Welcome to **Eratosthenes Lab**, my personal workspace dedicated to quantitative
 * **Reproducible Research:** Open notebooks and scripts supporting technical articles and publications.
 
 ### Where to Find My Work
-* **LinkedIn:** [Matteo Putzulu](https://linkedin.com)
+* **LinkedIn:** [Matteo Putzulu](https://www.linkedin.com/in/matteoputzulu/)
 * **ResearchGate:** [Matteo Putzulu](https://researchgate.net)
 * **Medium:** [@mp.engineering](https://medium.com)
 * **Substack:** [The Quantitative Epoch](https://substack.com)
